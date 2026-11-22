@@ -10,7 +10,7 @@ import { join } from "node:path";
 const TEXT =
   "The lighthouse keeper counts ships not yet built. " +
   "Each night he logs their lights in a book no one has opened. " +
-  "This morning a hull number he wrote three winters ago appeared on a freighter, same figures. " +
+  "This morning a hull number he wrote three winters ago appeared on a freighter below, same figures. " +
   "He did not cross it out. " +
   "He turned the page and began counting again.";
 
